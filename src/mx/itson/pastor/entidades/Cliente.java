@@ -12,6 +12,8 @@ public class Cliente {
 
     //getter and setter
     
+    //Hola,este es un comentario
+    
     /**
      * @return the id
      */
